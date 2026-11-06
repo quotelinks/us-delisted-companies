@@ -1,0 +1,20 @@
+US companies worth $1 billion or more that delisted (Oct 2021 - Oct 2026)
+Copyright (c) 2026 Quotelinks (https://www.quotelinks.com)
+
+The Quotelinks research fields in delisted_companies.csv (symbol, company,
+exchange, year, outcome, buyer, payment, terms, deal_value, deal_value_usd_bn,
+announced, closed, summary, source_url) are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Summary: https://creativecommons.org/licenses/by/4.0/
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution: please credit "Quotelinks" with a link to
+https://www.quotelinks.com/delisted-stocks-report.html
+
+The SEC EDGAR fields (cik, sic_code, sic_description, state_of_incorporation,
+form25_type, form25_date, form25_url) are US government data from the
+Securities and Exchange Commission and are in the public domain.
+
+The data is provided "as is", without warranty of any kind. It is for
+information only and is not investment advice.
